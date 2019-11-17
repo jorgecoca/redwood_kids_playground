@@ -1,0 +1,23 @@
+name: redwood_kids_playground
+description: App to showcase to kids how Flutter works
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.5.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: 0.13.2
+  path_provider: 1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fart.mp3
+    - assets/horn.mp3
