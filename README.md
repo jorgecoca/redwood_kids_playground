@@ -1,6 +1,6 @@
 # redwood_kids_playground
 
-[Redwood] is a school in Chicago whose purpose is to help students with dyslexia, dysgraphia, dyscalculia, or executive functioning needs. 
+[Redwood](https://www.redwoodliteracy.com) is a school in Chicago whose purpose is to help students with dyslexia, dysgraphia, dyscalculia, or executive functioning needs. 
 
 As part of their curriculum, they will be learning about coding and vehicles, and what a better way to do that than coming to BMW and talking directly to our engineers.
 
